@@ -1,0 +1,12 @@
+backend/node_modules/
+frontend/node_modules/
+
+# Логи
+*.log
+
+# Файлы окружения
+.env
+
+# Папки сборки
+frontend/build/
+backend/dist/
